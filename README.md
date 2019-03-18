@@ -36,8 +36,8 @@ Koristimo `curl` za preuzimanje potrebnih datoteka:
 
     curl -SLO https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.15.tar.xz
     curl -SLO https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.15.tar.sign
-    curl -SLO https://www.kernel.org/pub/linux/kernel/projects/rt/4.14/older/patch-4.16.7-rt1.patch.xz
-    curl -SLO https://www.kernel.org/pub/linux/kernel/projects/rt/4.14/older/patch-4.16.7-rt1.patch.sign
+    curl -SLO https://www.kernel.org/pub/linux/kernel/projects/rt/4.16/older/patch-4.16.7-rt1.patch.xz
+    curl -SLO https://www.kernel.org/pub/linux/kernel/projects/rt/4.16/older/patch-4.16.7-rt1.patch.sign
     
 Zatim ih raspakiramo:
 
